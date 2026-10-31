@@ -165,3 +165,9 @@ html{
     background-position: right bottom;
   }
 }
+
+.tester{
+    background-color:#00FFFF;
+    width:60%;
+    margin:auto;
+}
